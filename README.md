@@ -2,7 +2,14 @@
 Logos, social preview images etc.
 
 ## Main brand color
-<a href="#readme"><img src="https://raw.githubusercontent.com/aegis-icons/misc/main/brand-color_readme_preview.png"></a> `#263CD9`
+<a href="#readme"><img src="https://raw.githubusercontent.com/aegis-icons/misc/main/brand-color_readme_preview.png"></a> `#263CD9`.
+
+## Spelling
+
+It's always `aegis-icons` with **small "a"** and **dash between "aegis" and "icons" words**.
+
+> **Note** \
+> Big "a" letter is allowed if it's on the start of the sentence.
 
 ## Credits
 - Logotype: [Manrope](https://www.gent.media/manrope), extra-bold ([SIL OFL 1.1](https://github.com/sharanda/manrope/blob/master/OFL.txt))
