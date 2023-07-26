@@ -1,5 +1,5 @@
-# Design assets for aegis-icons
-Logos, social preview images etc.
+# Brand assets for aegis-icons
+Logo assets, social preview images etc for aegis-icons project brand.
 
 ## Main brand color
 <a href="#readme"><img src="https://raw.githubusercontent.com/aegis-icons/misc/main/brand-color_readme_preview.png"></a> `#263CD9`.
