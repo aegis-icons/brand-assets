@@ -1,1 +1,1 @@
-**Copyright © 2023 Kristian Salonen** (as part of "aegis-icons" project).
+**Copyright © 2026 The aegis-icons Project**.
