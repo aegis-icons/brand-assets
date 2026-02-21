@@ -6,10 +6,10 @@ Logo assets, social preview images etc for aegis-icons project brand.
 
 ## Spelling
 
-It's always `aegis-icons` with **small "a"** and **dash between "aegis" and "icons" words**.
+It's always `aegis-icons` with **lowercase "a"** and **dash between "aegis" and "icons" words**.
 
-> **Note** \
-> Big "a" letter is allowed if it's on the start of the sentence.
+> [!NOTE]
+> Uppercase "a" letter is allowed if it's on the start of the sentence.
 
 ## Credits
 - Logotype: [Manrope](https://www.gent.media/manrope), extra-bold ([SIL OFL 1.1](https://github.com/sharanda/manrope/blob/master/OFL.txt))
