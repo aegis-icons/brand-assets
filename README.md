@@ -12,7 +12,7 @@ It's always `aegis-icons` with **lowercase "a"** and **dash between "aegis" and 
 > Uppercase "a" letter is allowed if it's on the start of the sentence.
 
 ## Credits
-- Logotype: [Manrope](https://www.gent.media/manrope), extra-bold ([SIL OFL 1.1](https://github.com/sharanda/manrope/blob/master/OFL.txt))
+- Logotype: [Manrope](https://fonts.google.com/specimen/Manrope), extra-bold ([SIL OFL 1.1](https://fonts.google.com/specimen/Manrope/license))
 - Slogan typeface: [iA Writer Duo](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Duo), italic ([SIL OFL 1.1](https://github.com/iaolo/iA-Fonts/blob/master/iA%20Writer%20Duo/LICENSE.md))
 
 ## License
