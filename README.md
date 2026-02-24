@@ -6,7 +6,7 @@ Logo assets, social preview images etc for aegis-icons project brand.
 
 ## Spelling
 
-It's always `aegis-icons` with **lowercase "a"** and **dash between "aegis" and "icons" words**.
+It's always `aegis-icons` with **lowercase "a" / "i"** and **dash between "aegis" and "icons" words**.
 
 > [!NOTE]
 > Uppercase "a" letter is allowed if it's on the start of the sentence.
